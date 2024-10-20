@@ -24,7 +24,7 @@ This project aims to develop an AI-powered application that automates the sortin
 
 # Usage 
 1. run application:
- - streamlit run app.py
+ - streamlit run streamlit_app.py
 2. Upload an image of coffee cherries.
 3. Input the mass of the cherries (optional).
 4. Click on the "Classify" button to get sorting results and feedback.
